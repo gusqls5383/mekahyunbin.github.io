@@ -1,0 +1,23 @@
+/* body 스타일 */
+body {
+    font-family: Arial, sans-serif; /* 폰트 설정 */
+    background-color: #f4f4f4; /* 배경 색상 */
+    color: #333; /* 텍스트 색상 */
+    text-align: center; /* 텍스트 중앙 정렬 */
+    padding: 20px; /* 페이지 여백 */
+}
+
+/* 제목 스타일 */
+h1 {
+    color: #0056b3; /* 제목 색상 */
+}
+
+/* 이미지 스타일링 */
+img {
+    width: 300px; /* 이미지 너비 */
+    height: 200px; /* 이미지 높이 */
+    border-radius: 10px; /* 이미지 모서리 둥글게 */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* 이미지에 그림자 효과 */
+    margin: 20px auto; /* 이미지 상하 20px 간격, 좌우 자동 정렬 */
+    display: block; /* 이미지가 블록 요소로 표시되어 가운데 정렬 */
+}
